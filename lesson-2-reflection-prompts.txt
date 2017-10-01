@@ -1,11 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 	you do that when you create a repository.  It will create files containing meta data.
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Staging area is a temporary area before a commit is done.  It gives a temporary place before you decide to commit while you are still working on changes..
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+	you can use the staging area to check what you have changed compared and ready to commit and others that you are not ready to commit.  You can also check your change with those that you already committed.  
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
